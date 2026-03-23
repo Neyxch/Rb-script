@@ -13,7 +13,7 @@ Simple teleport script for Roblox.
 ## 🔧 Usage
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/REPO/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Neyxch/Rb-Clicktp-script/main/main.lua"))()
 
 ##⚠️ Requirements
 - Executor or HttpEnabled enabled
